@@ -1,0 +1,21 @@
+---
+title: "Homework 1"
+output: html_document
+---
+
+Brad Gannon; bradgannon
+
+1. DONE
+
+2. I consider data science to be the study of data and analyzing it to make conclusion that affect decisions being made. I think it is both a qualitative and quantitative field, with discretion being very important to a data scientist. Furthermore, it blends both **programming** and business in a professional setting, which I find to be very interesting. An example of this would be analyzing financial data to determine algorithms for approving/denying loans for people. Here is a link to a chart that would be created by a data scientist to understand data:
+   [chart](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjW0q7GovPfAhWEyIMKHVgdC70QjRx6BAgBEAU&url=https%3A%2F%2Ffred.stlouisfed.org%2Fseries%2FA939RX0Q048SBEA&psig=AOvVaw2exKNpHvDt_RUBm0b4aRhz&ust=1547761368178954)
+   
+3. DONE
+
+4. DONE
+
+5. git version 2.20.1.windows.1
+
+6. DONE
+
+7. bradgannon
