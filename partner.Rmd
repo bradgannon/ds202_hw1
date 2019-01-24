@@ -1,0 +1,19 @@
+---
+title: "Partner.Rmd"
+author: "Sam Begley"
+date: "January 24, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner: Brad Gannon  
+Partner's GitHub: bradgannon  
+Commits:  
+    1. Added .Rhistory (6919bcb)  
+    2. Added html file (1ba75c9)  
+    3. Added RMarkdown file (349573d)  
+  
+  My partner's github worked perfectly.
